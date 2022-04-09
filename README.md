@@ -22,7 +22,7 @@ I am a Data Analyst from Indonesia <img src="https://media2.giphy.com/media/cmCE
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Tools :hammer_and_wrench:
 <div>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
@@ -50,4 +50,5 @@ I am a Data Analyst from Indonesia <img src="https://media2.giphy.com/media/cmCE
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+  
 <!-- BLOG-POST-LIST:END -->
