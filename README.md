@@ -44,11 +44,11 @@ I am a Data Analyst from Indonesia <img src="https://media2.giphy.com/media/cmCE
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=radyani&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radyani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radyani&layout=compact&theme=vision-friendly-dark)](https://github.com/radyani/github-readme-stats)
 
 ---
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-  
+  anuraghazra
 <!-- BLOG-POST-LIST:END -->
