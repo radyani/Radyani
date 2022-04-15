@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn-icons.flaticon.com/png/512/4793/premium/4793136.png?token=exp=1649496390~hmac=92b5bdad956816a7103b090fb60392f9" width="100"/>
+  <img src="https://avatars.githubusercontent.com/u/100063930?s=400&u=24ffeed274de4e5ad75056060b593e91bb47d6cf&v=4" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/radyani-prasasya/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
