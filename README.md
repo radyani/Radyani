@@ -18,7 +18,7 @@ I am a Data Analyst from Indonesia <img src="https://media2.giphy.com/media/cmCE
 
 - :seedling: Highly interested in agricultural data and IoT.
 
-- :sunny: Sometimes I play around in Kaggle and try to clean random data.
+- :sunny: I love data cleaning.
 
 ---
 
