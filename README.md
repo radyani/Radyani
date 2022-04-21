@@ -54,4 +54,6 @@ I am a Data Analyst from Indonesia <img src="https://media2.giphy.com/media/cmCE
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
   
+  Check out my blog: https://radyani.github.io/rad/
+  
 <!-- BLOG-POST-LIST:END -->
