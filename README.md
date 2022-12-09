@@ -17,7 +17,7 @@ Radyani Prasasya
 
 I am a Data Analyst from Indonesia <img src="https://media2.giphy.com/media/cmCEsJZHYBPels360q/200w.webp?cid=ecf05e474xtpv38tjaoed1pe3w0uozadgxfmhqh8oqyko0mm&rid=200w.webp&ct=s" width="30"> 
   
-- :computer: I’m currently working as a Project Support in Waste Management Data Processing and Analysis.
+- :computer: I’m currently studying Agricultural Economics and Data Analysis.
 
 - :seedling: Highly interested in agricultural data and IoT.
 
